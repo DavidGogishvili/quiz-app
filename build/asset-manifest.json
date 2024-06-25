@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/quiz-app/static/css/main.ee27b6ab.css",
+    "main.js": "/quiz-app/static/js/main.5eb23eaf.js",
+    "static/media/nah.gif": "/quiz-app/static/media/nah.db0fdf1c9f08219e0775.gif",
+    "static/media/celebrate.gif": "/quiz-app/static/media/celebrate.72d245ccc3ad72964828.gif",
+    "static/media/loser.gif": "/quiz-app/static/media/loser.009c70f8420e99050b9f.gif",
+    "static/media/effenberg.png": "/quiz-app/static/media/effenberg.2f07d69e3c8d314f2885.png",
+    "static/media/final.png": "/quiz-app/static/media/final.d75e2760f29e031ce580.png",
+    "static/media/treble.jpg": "/quiz-app/static/media/treble.81f1de51e745e07b7274.jpg",
+    "static/media/messi.jpg": "/quiz-app/static/media/messi.123439f6a9da11dd0dcb.jpg",
+    "static/media/barca.png": "/quiz-app/static/media/barca.094a3486c19a27e4b022.png",
+    "static/media/poland.png": "/quiz-app/static/media/poland.50c4a7531eeaa4917eb3.png",
+    "static/media/ronaldo.jpg": "/quiz-app/static/media/ronaldo.d4e949bb1a061689393a.jpg",
+    "static/media/shirt.jpg": "/quiz-app/static/media/shirt.2638ac8ec963beadd916.jpg",
+    "static/media/ramos.jpg": "/quiz-app/static/media/ramos.c435933ff49178894468.jpg",
+    "index.html": "/quiz-app/index.html",
+    "main.ee27b6ab.css.map": "/quiz-app/static/css/main.ee27b6ab.css.map",
+    "main.5eb23eaf.js.map": "/quiz-app/static/js/main.5eb23eaf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee27b6ab.css",
+    "static/js/main.5eb23eaf.js"
+  ]
+}
